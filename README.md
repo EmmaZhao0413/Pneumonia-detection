@@ -10,3 +10,5 @@ efficiency and minimize labour overhead. Notably, machine learning methods like 
 solving the problem with abundance of data. 
 
 The goal of this project is to design a neural network architecture for pneumonia image classification tasks.
+
+For data and trained models: https://drive.google.com/drive/folders/19uab0ICIuuOcOB771_CTfkDyZFm9CUhi?usp=sharing
